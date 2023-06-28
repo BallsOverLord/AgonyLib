@@ -1,4 +1,4 @@
-	local library = loadstring(game:HttpGet(""))()
+	local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/BallsOverLord/AgonyLib/main/AgonyLib.txt"))()
 	
 	UI.CreateBase() --Create UI
 
