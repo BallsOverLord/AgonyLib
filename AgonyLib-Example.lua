@@ -2,6 +2,12 @@
 	
 	UI.CreateBase() --Create UI
 
+	--(Text)
+	--[[
+		Text = Set Leave Message
+	--]]
+	UpdateLeaveMessage("Text")
+
 	--(Text, Image, RGBInput, Time)
 	--[[
 		Text = Tabs name
