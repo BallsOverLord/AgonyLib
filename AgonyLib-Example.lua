@@ -4,6 +4,12 @@
 
 	--(Text)
 	--[[
+		Text = Message Displayed When F4 Is Pressed I Think
+	--]]
+	UpdateLeaveMessage("Text")
+
+	--(Text)
+	--[[
 		Text = Set Leave Message
 	--]]
 	UpdateLeaveMessage("Text")
